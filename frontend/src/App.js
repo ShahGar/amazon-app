@@ -20,12 +20,12 @@ function App() {
           <div className="brand">
             <button onClick={openMenu}>&#9776; </button>
             <Link to="/">Dakshina</Link>
-        
-            
+      
           </div>
           <div className="header-links">
             <a href="Home.html">Home</a>
             <a href="Products.html">Products</a>
+            <a href ="New Products">New Products</a>
             <a href="cart.html">Cart</a>
             <a href="Signin.html">Sign In</a>
           </div>
